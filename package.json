@@ -43,7 +43,7 @@
         "uuid": "^3.3.2",
         "webpack": "^4.11.0",
         "react": "^16.6.2",
-        "react-dom": "^16.4.0",
+        "react-dom": "^16.6.2",
         "redux": "^4.0.0",
         "create-react-app": "^2.0.2",
         "array-add-num": "~1.0.1",
