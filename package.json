@@ -13,7 +13,13 @@
         "type": "git",
         "url": "https://github.com/palashmon/learn-commitizen.git"
     },
-    "keywords": ["learn", "commitizen", "practice", "semantic-release", "semantic"],
+    "keywords": [
+        "learn",
+        "commitizen",
+        "practice",
+        "semantic-release",
+        "semantic"
+    ],
     "author": "Palash Mondal <palashm@live.in>",
     "license": "MIT",
     "bugs": {
